@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "serve": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "lottie-web": "^5.10.2"
+  }
 }
