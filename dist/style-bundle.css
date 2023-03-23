@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.animation-block {
+  margin: auto;
+  max-width: 400px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.animation-block__heading {
+  margin: 2rem 0;
+  text-align: center;
+}
